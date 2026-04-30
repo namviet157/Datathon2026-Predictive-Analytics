@@ -1,1 +1,4 @@
 venv/
+eda_outputs/
+model_outputs/
+documentation/
